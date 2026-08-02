@@ -9,6 +9,9 @@
     "preview": "vite preview",
   "build": "npx vite build"
   },
+  "scripts": {
+  "build": "node node_modules/vite/bin/vite.js build"
+},
   
   
   "dependencies": {
